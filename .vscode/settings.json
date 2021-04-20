@@ -1,0 +1,7 @@
+{
+  "deepscan.enable": true,
+  "deno.import_intellisense_origins": {
+    "https://deno.land": true
+  },
+  "deno.enable": true
+}
